@@ -23,7 +23,7 @@ Keunggulan : Mudah,Cepat,Aman,Dan Nyaman
 **Login :**
 ![link](login.jpeg)
 **Home :**
-![link](home.png)
+![link](registrasi.jpeg)
 **Single Room :**
 ![link](singleroom.jpeg)
 **Twin Room :**
